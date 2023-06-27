@@ -1,0 +1,2 @@
+lembre-se de criar o banco de dados seguindo o script do arquivos "./db" e depois configurar o arquivo "./motores/connect.php"
+De resto, não tem erro. So colocar pra rodar.
